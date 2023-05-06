@@ -1,6 +1,6 @@
 # AnalyticsProject2
 
-В рамках этого проекта у меня было две задачи на A/B тестирование. [Решение](https://github.com/IraNovichkova/AnalyticsProject2/blob/main/README.md) проекта. hist_telesales.csv - исторические данные, Контроль.csv и Тест.csv - A/B выборки к задаче. За задачу я получила 10 баллов из 10 
+В рамках этого проекта у меня была задача на A/B тестирование. [Решение](https://github.com/IraNovichkova/AnalyticsProject2/blob/main/README.md) проекта. hist_telesales.csv - исторические данные, Контроль.csv и Тест.csv - A/B выборки к задаче. За задачу я получила 10 баллов из 10 
 
 
 ## Условие
